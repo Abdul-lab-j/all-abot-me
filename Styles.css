@@ -1,0 +1,56 @@
+body {
+  width: 40%;
+  height: 60vh;
+  margin: 0;
+  background-color:#7FFFD4;
+  color: white;
+  font-size: 
+} 
+
+h1, p {
+  margin: 1em auto;
+  text-align: center;
+}
+
+form {
+  width: 60vw;
+  max-width: 200px;
+  min-width: 100px;
+  margin: 0 auto;
+  padding-bottom: 2em;
+}
+
+label {
+  display: block;
+  margin: 0.5rem 0;
+}
+
+input {
+  background-color: #A9A9A9;
+  border: 1px solid #A9A9A9;
+  color: #DEB887;
+}
+
+.inline {
+  width: unset;
+  vertical-align: middle;
+}
+
+input {
+  display: block;
+  width: 40%;
+  margin: 1em auto;
+  height: 2em;
+  font-size: 1.1rem;
+  background-color: #3b3b4f;
+  border-color: blue;
+  min-width: 100px;
+}
+
+input {
+  padding: 5px 6px;
+}
+
+.inline{
+  display: inline; 
+	
